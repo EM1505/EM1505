@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ethan Mawhinney
+I'm Ethan Mawhinney
 
 Computer Science | Ulster University  
 Aspiring Software Engineer  
